@@ -1,4 +1,10 @@
-## Hi there 👋
+## ✨Boa noite, me chamo Eduardo e seja bem vindo ao meu perfil.✨ ##
+Sou o Eduardo Sales do Couto, Tenho 18 anos e tenho um foco em aprender programação
+
+![tenor](https://github.com/user-attachments/assets/2ab9d2bb-7af6-4dbb-8c3a-dd6ce375b416)
+
+Estou cursando TI no SENAC Itapira e DSM na FATEC Itapira
+
 
 <!--
 **EduSC-17/EduSC-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
