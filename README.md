@@ -7,7 +7,7 @@ Estou cursando TI no SENAC Itapira e DSM na FATEC Itapira.
 
 
 ## |🤔O que pretendo aprender🤔
- linguagens como➡️ Html-Css, python, JS e muitos outros.
+ linguagens como➡️ Html, Css, Python, JavaScript e muitos outros.
  
  Ferramentas como➡️ Vscode, Git e Github.
  
