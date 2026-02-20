@@ -3,7 +3,7 @@ Sou o **Eduardo Sales do Couto**, Tenho 18 anos e tenho um foco em aprender prog
 
 Estou cursando TI no SENAC Itapira e DSM na FATEC Itapira.
 
-![tenor](https://github.com/user-attachments/assets/2ab9d2bb-7af6-4dbb-8c3a-dd6ce375b416)
+![e30619a372ef2f3d9269a0fe76f4a1b6](https://github.com/user-attachments/assets/2055e774-6916-42be-8448-bedfafa62884)
 
 ## |🤔O que pretendo aprender🤔
  linguagens como➡️ Html-Css, python, JS e muitos outros.
