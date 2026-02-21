@@ -16,6 +16,7 @@
 - [ ] VSCode
 - [ ] GIT
 - [ ] GitHub
+- [ ] ...
  
  ### Entender e aplicar 💫Web Design💫. 
 
