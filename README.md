@@ -1,19 +1,25 @@
-## |✨Boa noite, me chamo Eduardo e seja bem vindo ao meu perfil.✨
-Sou o **Eduardo Sales do Couto**, Tenho 18 anos e tenho um foco em aprender programação.
-
-Estou cursando TI no SENAC Itapira e DSM na FATEC Itapira.
+# |✨Boa noite, me chamo Eduardo e seja bem vindo ao meu perfil.✨
+>Sou o **Eduardo Sales do Couto**, Tenho 18 anos e tenho um foco em aprender programação. Estou cursando TI no SENAC Itapira e DSM na FATEC Itapira.
 
 ![604544_3dbbc](https://github.com/user-attachments/assets/3d9e8ce8-65ca-4315-890b-fd67059382fc)
 
 
-## |🤔O que pretendo aprender🤔
- linguagens como➡️ Html, Css, Python, JavaScript e muitos outros.
+## |🤔O que pretendo aprender🧐
+ ### linguagens como🔎
+- [ ] HTML
+- [ ] Css
+- [ ] Python
+- [ ] JavaScript
+- [ ] ...
  
- Ferramentas como➡️ Vscode, Git e Github.
+### Ferramentas como🔧
+- [ ] VSCode
+- [ ] GIT
+- [ ] GitHub
  
- Entender e aplicar 💫Web Design💫. 
+ ### Entender e aplicar 💫Web Design💫. 
 
-## |🧐Idiomas🧐
+## |🌎Idiomas🌏
 Português (PT-BR) - Nativo
 
 Inglês - Intermediário
