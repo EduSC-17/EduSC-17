@@ -10,15 +10,15 @@
   </tr>
   <tr>
     <td>
-      - [] 🔗 HTML<br>
+      - [ ] 🔗 HTML<br>
       - [ ] 🎨 CSS<br>
       - [ ] 🐍 Python<br>
       - [ ] ☕ JavaScript<br>
       - [ ] ...
     </td>
     <td>
-      - [] 💻 VSCode<br>
-      - [] 🌳 GIT<br>
+      - [ ] 💻 VSCode<br>
+      - [ ] 🌳 GIT<br>
       - [ ] 🐱 GitHub<br>
       - [ ] ...
     </td>
