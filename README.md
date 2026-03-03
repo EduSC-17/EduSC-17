@@ -1,4 +1,4 @@
-# ✨Boa noite, me chamo Eduardo e seja bem vindo ao meu perfil.✨
+# ✨Boa noite, sou o Eduardo e seja bem vindo ao meu perfil.✨
 >Sou o **Eduardo Sales do Couto**, Tenho 18 anos e tenho um foco em aprender programação. Estou cursando TI no SENAC Itapira e DSM na FATEC Itapira.
 
 ## 🤔O que pretendo aprender🧐
