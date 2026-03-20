@@ -1,7 +1,8 @@
-# ✨Boa noite, sou o Eduardo e seja bem vindo ao meu perfil.✨
->Sou o **Eduardo Sales do Couto**, Tenho 18 anos e tenho um foco em aprender programação. Estou cursando TI no SENAC Itapira e DSM na FATEC Itapira.
 
-## 🤔O que pretendo aprender🧐
+<img width="1053" height="285" alt="banner_github2" src="https://github.com/user-attachments/assets/28c743c7-16e7-4d81-8171-1710b8d95e3a" /> <br>
+>Sou o **Eduardo Sales do Couto**, Tenho 18 anos e tenho um foco em aprender programação. <br> Estou cursando TI no SENAC Itapira e DSM na FATEC Itapira.
+
+# 🤔O que pretendo aprender🧐
 
 <table>
   <tr>
@@ -10,17 +11,17 @@
   </tr>
   <tr>
     <td>
-      - [ ] 🔗 HTML<br>
-      - [ ] 🎨 CSS<br>
-      - [ ] 🐍 Python<br>
-      - [ ] ☕ JavaScript<br>
-      - [ ] ...
+        🔗 HTML<br>
+        🎨 CSS<br>
+        🐍 Python<br>
+        ☕ JavaScript<br>
+       ...
     </td>
     <td>
-      - [ ] 💻 VSCode<br>
-      - [ ] 🌳 GIT<br>
-      - [ ] 🐱 GitHub<br>
-      - [ ] ...
+        💻 VSCode<br>
+        🌳 GIT<br>
+        🐱 GitHub<br>
+        ...
     </td>
   </tr>
 </table>
