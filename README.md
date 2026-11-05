@@ -2,9 +2,14 @@
 <img width="1053" height="285" alt="banner_github2" src="https://github.com/user-attachments/assets/28c743c7-16e7-4d81-8171-1710b8d95e3a" /> <br>
 >Sou o **Eduardo Sales do Couto**, Tenho 19 anos e tenho um foco em aprender programação. <br> Estou cursando **TI no SENAC Itapira e DSM na FATEC Itapira**.
 
-<br> 
+<br>
 
-# 🤔O que pretendo aprender🧐
+<a href="mailto:Ecouto17@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="mailto:edscouto.18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+# 🤔O que estou aprendendo
+
+**Linguagens**
 
 <img
     align="left"
@@ -14,6 +19,8 @@
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
 />
+
+
 
 <img
     align="left"
@@ -27,12 +34,22 @@
 
  <img
     align="left"
-    alt="CSS3"
-    title="CSS3"
+    alt="python"
+    title="Python"
     width="50px"
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
  />
+          
+
+<img 
+    align="left"
+    alt="c"
+    title="C"
+    width="50px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>
           
 
 <img
@@ -54,7 +71,18 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 />
 
+<img 
+    align="left"
+    alt="mysql"
+    title="Mysql"
+    width="50px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+
 <br> <br>
+          
+**Ferramentas**
 
 <img 
     align="left"
@@ -89,19 +117,15 @@
 <br> <br> <br>      
           
 
-## 🌎Idiomas🌏
+# 🌎Idiomas
 <img height="10" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"> Português (PT-BR) - Nativo
-
-<br>
 
 <img height="15" src="https://cdn-icons-png.flaticon.com/512/555/555526.png"> Inglês - Avançado
 
-## 📱Contato📲
-<a href="mailto:Ecouto17@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-<a href="mailto:edscouto.18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<br>
 
- ## 📓Estatisticas📝
+ # 📓Estatisticas
 
  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EduSC-17&custom_title=Meus%20Status&show_icons=true&include_all_commits=true&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api?username=EduSC-17&custom_title=Meus%20Status&show_icons=true&include_all_commits=true&theme=catppuccin_latte)
- [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=EduSC-17&hide_title=true&langs_count=6&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api/top-langs?username=EduSC-17&hide_title=true&langs_count=6&theme=catppuccin_latte)
  
+ [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=EduSC-17&hide_title=true&langs_count=6&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api/top-langs?username=EduSC-17&hide_title=true&langs_count=6&theme=catppuccin_latte)
